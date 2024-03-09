@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/TN9sLQdaCQHGNvA7hWnGgLeeCXcbQJaSP92uTtjWJIboF2Wjagzaic4GfycXEK1iHkxHqG7BOIrgYpE/tIKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev\\source\\repos\\ExercicioAula2\\TestesSimulacao\\TestesSimulacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

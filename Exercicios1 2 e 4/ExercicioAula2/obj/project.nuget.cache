@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ckAH889IYkvZfOMLiZduV7XuNzVEnbfqL9d85h4Pu7nL4LD9q2Cwr3jdUbHzPfQc3YIPX31FZKd13icFg8Qkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev\\source\\repos\\ExercicioAula2\\ExercicioAula2\\ExercicioAula2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
